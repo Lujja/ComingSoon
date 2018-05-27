@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coming Soon</string>
+    <string name="tab_text_1">HOME</string>
+    <string name="tab_text_2"> DEPARTMENTS</string>
+    <string name="tab_text_3">Coming Soon</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="fill_all_background_info_here">Fill all background info here</string>
+    <string name="all_yo_lib_items_in_grid_view_here">all yo lib items in Grid view here</string>
+    <string name="implement_a_list_view_here">Implement a LIST view here</string>
+</resources>
